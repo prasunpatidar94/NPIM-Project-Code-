@@ -1,0 +1,25 @@
+/* .feedback_L1_And_L2 {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  height: auto;
+  width: 100%;
+} */
+
+.pro_info ul {
+  display: list-item;
+}
+.pro_info ul li {
+  color: black;
+  text-align: left;
+}
+
+table {
+  margin: 5%;
+}
+.btn_feed_show ul li button {
+  width: 100%;
+}
+.btn_feed_show ul li {
+  margin: 2%;
+}

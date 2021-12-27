@@ -1,0 +1,13 @@
+.drop_multi {
+  width: 20%;
+  min-width: 30%;
+  text-align: left;
+}
+.searchBox {
+  border: none;
+  font-size: 10px;
+  min-height: 50px;
+}
+.optionContainer.li {
+  text-align: left;
+}

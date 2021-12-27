@@ -1,0 +1,25 @@
+.lower_header_show {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  height: 3rem;
+  background-color: rgb(70, 69, 69);
+}
+
+lower_header_show ul {
+  display: flex;
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+}
+/* li {
+  text-align: center;
+  flex: auto;
+} */
+
+.search_bar_btn {
+  color: blanchedalmond;
+}
+.onclick_search_bar_btn {
+  color: aqua;
+}
