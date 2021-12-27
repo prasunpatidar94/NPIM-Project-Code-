@@ -11,14 +11,6 @@ const UrlManager = {
 
 
 
-    //server
-    itemWiseReportL3: "https://tanishqdigitalnpim.titan.in:8443/DNPIM/NPIML3/npim/item/wise/rpt/L3/",
-    canceledItemReportL3: "https://tanishqdigitalnpim.titan.in:8443/DNPIM/NPIML3/npim/get/item/cancel/list/",
-    SummaryReportL3: "https://tanishqdigitalnpim.titan.in:8443/DNPIM/NPIML3/npim/summary/report/L3/",
-    statusL3: "https://tanishqdigitalnpim.titan.in:8443/DNPIM/NPIML3/npim/get/status/L3/",
-    endDayReportForAdmin: "https://tanishqdigitalnpim.titan.in:8443/DNPIM/NPIMADMIN/end/day/report/",
-    // // itemWiseReportL3:"",
-
 
     // //admin page 
     // endDayReportForAdmin: 
